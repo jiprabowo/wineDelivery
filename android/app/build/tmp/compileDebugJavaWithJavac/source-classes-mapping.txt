@@ -1,0 +1,14 @@
+com/listproduct/ReactNativeFlipper.java
+ com.listproduct.ReactNativeFlipper
+ com.listproduct.ReactNativeFlipper$1
+ com.listproduct.ReactNativeFlipper$2
+ com.listproduct.ReactNativeFlipper$2$1
+com/listproduct/MainActivity.java
+ com.listproduct.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/listproduct/BuildConfig.java
+ com.listproduct.BuildConfig
+com/listproduct/MainApplication.java
+ com.listproduct.MainApplication
+ com.listproduct.MainApplication$1
