@@ -1,7 +1,7 @@
 # wineDelivery
 
 ## Description
-this source code is the test of Wine Delivery technical test for Front End Developer position, created by Aji
+This source code is the technical test of Wine Delivery for Front End Developer position, created by Aji
 
 ## How to run
 * Clone this project.
