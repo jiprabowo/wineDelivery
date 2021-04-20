@@ -13,5 +13,6 @@ this source code is the test of Wine Delivery assessment for Front End Developer
 * Then run `react-native run-ios` to run the project on iOS devices or run through Xcode.
 
 ## Showcase
-* We can access link https://youtu.be/PzzAgvQnAfY to show showcase in video format
+We can access link https://youtu.be/PzzAgvQnAfY to show showcase in video format.
+
 <img src="Images/Image1.png" height="420"> <img src="Images/Image2.png" height="420"> 
